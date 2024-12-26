@@ -1,5 +1,5 @@
 let alphabet = "";
-//initie une variable vide que l'ont pas remplire par la suite
+//initie une variable vide que l'ont remplit par la suite
 for (let i = 97; i <= 122; i++) {
 //initialisation de i entre 97 et 122 (alphabet ASCII)
   alphabet += String.fromCharCode(i);
